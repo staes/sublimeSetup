@@ -1,2 +1,2 @@
 # sublimeSetup
-keybindings + packates
+keybindings + packages
